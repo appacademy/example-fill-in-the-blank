@@ -9,10 +9,12 @@
 </fill-in-the-blank>
 
 
-<quiz>
   ```js
     const testFunction = () => console.log('testing');
   ```
+
+
+<quiz>
   <question>
     <p>If `x` is TRUE and `y` is TRUE, what is `((x AND y)' AND (x' OR y')')'`?</p>
     <answer correct>TRUE</answer>

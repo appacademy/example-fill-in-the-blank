@@ -10,6 +10,9 @@
 
 
 <quiz>
+  ```js
+    const testFunction = () => console.log('testing');
+  ```
   <question>
     <p>If `x` is TRUE and `y` is TRUE, what is `((x AND y)' AND (x' OR y')')'`?</p>
     <answer correct>TRUE</answer>
